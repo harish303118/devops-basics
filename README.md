@@ -39,12 +39,12 @@ For a deeper understanding, please refer to the definition from the big company:
 
 ### Roadmap
 
-- ➡️ [roadmap.sh/devops](https://roadmap.sh/devops)
+- ➡️ [codersnote.com/devops](https://codersnote.com/roadmap/outline/devopsengineer)
 - ➡️ [DevOps toolchain](https://en.wikipedia.org/wiki/DevOps_toolchain)
 
 ## DevOps topics 🔥
 
-We cover a wide range of DevOps topics in our content library, explore them under [**topics**](./topics/). You can also refer to [**roadmap.sh/devops**](https://roadmap.sh/devops) to see where each topic fits in the toolchain
+We cover a wide range of DevOps topics in our content library, explore them under [**topics**](./topics/). You can also refer to [**codersnote.com/devops**](https://codersnote.com/roadmap/outline/devopsengineer) to see where each topic fits in the toolchain
 
 <table>
     <tr>
@@ -409,3 +409,4 @@ Thank you all for your contributions! 💖
 ## Star History ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tungbq/devops-basics&type=Timeline)](https://star-history.com/#tungbq/devops-basics&Timeline)
+
